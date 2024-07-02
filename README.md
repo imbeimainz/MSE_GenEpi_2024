@@ -17,7 +17,7 @@ This repository contains:
 For the practical session:
 
 - open the `MSE_GeneticEpidemiology_2024.Rproj` file in RStudio
-- open the `01-rnaseq_lecture/transcriptomics_practical.Rmd`  or  `02-rbioc_recap/intro_to_r_bioc.Rmd` files to follow along the different chunks
+- open the `01-rnaseq_lecture/transcriptomics_practical.Rmd` or `02-rbioc_recap/intro_to_r_bioc.Rmd` files to follow along the different chunks
 - open the `01-rnaseq_lecture/transcriptomics_practical_in_a_glance.Rmd` for a compact version of the practical session
 
 To make sure you're all set for running the code interactively, run this command:

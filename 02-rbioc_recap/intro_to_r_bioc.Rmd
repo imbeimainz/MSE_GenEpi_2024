@@ -9,7 +9,7 @@ subtitle: >
 author:
 - name: <a href="https://federicomarini.github.io">Federico Marini (marinif@uni-mainz.de)</a><br><a href="https://www.unimedizin-mainz.de/imbei/">IMBEI, University Medical Center Mainz</a><br><a href="https://twitter.com/FedeBioinfo">`r icons::fontawesome('twitter')` `@FedeBioinfo`</a>
 - name: Alicia Schulze (alpoplaw@uni-mainz.de)<br><a href="https://www.unimedizin-mainz.de/imbei/">IMBEI, University Medical Center Mainz</a><br>
-date: "2023/07/05-06"
+date: "2024/07/03-04"
 output: 
   bookdown::html_document2:
     toc: true

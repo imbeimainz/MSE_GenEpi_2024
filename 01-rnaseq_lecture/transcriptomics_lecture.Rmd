@@ -10,7 +10,7 @@ author: >
   </a>
   </p>
 date: >
-  2023/07/05-06</br>
+  2024/07/03-04</br>
   <a href="https://twitter.com/FedeBioinfo">``r icons::fontawesome('twitter')` @FedeBioinfo`</a>
 output:
   xaringan::moon_reader:
@@ -127,7 +127,7 @@ See https://imbeimainz.github.io/GTIPI2022/material.html for details!
 
 +
 
-This repo should contain it all: https://github.com/imbeimainz/MSE_GenEpi_2023
+This repo should contain it all: https://github.com/imbeimainz/MSE_GenEpi_2024
 
 ---
 
@@ -541,13 +541,13 @@ Fields:
 
 --
 
-Currently (June 2023)
+Currently (July 2024)
 
-- 2230 software packages
-- 912 annotation packages
-- 419 experiment packages
-- 27 workflows
-- 3 books
+- 2300 software packages
+- 926 annotation packages
+- 430 experiment packages
+- 30 workflows
+- 8 books (https://bioconductor.org/help/bioconductor-books/)
 
 **Aim**: interdisciplinary research, collaboration and rapid development of scientific software
 
@@ -1863,7 +1863,7 @@ class: center, middle
 
 # Practical session
 
-Check again the README file at https://github.com/imbeimainz/MSE_GenEpi_2023
+Check again the README file at https://github.com/imbeimainz/MSE_GenEpi_2024
 
 ---
 
