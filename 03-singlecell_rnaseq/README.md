@@ -1,4 +1,4 @@
-# 08-singlecell
+# Single cell RNA-seq data analysis
 
 Topics to touch upon
 

@@ -1,4 +1,4 @@
-# 02-rbioc
+# 02-rbioc R & Bioc, a recap
 
 Topics we will cover:
 - R and RStudio: know your tools of the trade

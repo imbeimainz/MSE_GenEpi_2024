@@ -1,4 +1,4 @@
-# 06-transcriptomics
+# RNA-seq, transcriptomics lecture and practical(s)
 
 Topics we will touch upon
 
